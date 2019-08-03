@@ -15,7 +15,7 @@ https://soundcloud.com/mert-hac-ahmeto-lu/sesler
 Eğer siz de kendi modelinizi eğitmek istiyorsanız, sıfırdan başlamamanızı tavsiye ederim çünkü bu model ne kadar kötü olursa olsun en azından bazı şeylerin telaffuzunun öğrendi. Bu da eğitimi yaparken zaman kazanmanıza yardımcı olacaktır. Benimle aynı kişinin ses kaydını kullanmanıza gerek yok çünkü model konvolüsyonel ağlar kullandığından sonradan eğittiğiniz ses baskın olacaktır. Hatta yeterince iyi bir model eğittikten sonra 15bin 10bin gibi çok daha az adımlarla hernhangi birinin sesinin modelini eklerseniz o kişiye yakın sesler elde edebilirsiniz.
 
 502bin adım eğitilmiş modelimin save dosyalarını aşağıdaki linke yükledim.
-
+https://www.dosyaupload.com/6zro https://www.dosyaupload.com/6zrp https://www.dosyaupload.com/6zrr
 
 Başlıca gerekli kütüphaneler:
   1-librosa
