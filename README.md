@@ -23,5 +23,5 @@ Başlıca gerekli kütüphaneler:
   3-numpy
   4-matplotlib
   5-scipy
-  6-tensorflow 1.3 ve üzeri
+  6-tensorflow 1.3+
 
